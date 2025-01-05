@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiilak
+- 👋 Hi, I’m @tilak
 
 <!---
 tiilak/tiilak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
